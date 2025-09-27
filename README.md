@@ -139,6 +139,5 @@ Me chamo Andry Marques, tenho 21 anos e sou natural de Minas Gerais. Atualmente 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndryMarques&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
 
