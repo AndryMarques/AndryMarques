@@ -142,5 +142,3 @@ Me chamo Andry Marques, tenho 21 anos e sou natural de Minas Gerais. Atualmente 
 
 </p>
 
-
-##
