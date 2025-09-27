@@ -1,4 +1,4 @@
-<h1 align="center">Fala meu fi, bão?👋</h1>
+<!-- <h1 align="center">Fala meu fi, bão?👋</h1>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
@@ -6,4 +6,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AndryMarques/AndryMarques/output/pacman-contribution-graph.svg">
 </picture>
 
-### 
+###  -->
