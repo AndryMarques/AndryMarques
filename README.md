@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Andr Marques, tenho 20 anos e sou natural de Minas Gerais. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na PUCMG, atualmente atuo como estágiario em desenvolvimento web, aonde eu pratico e aprendo constantimente 
+Me chamo Andry Marques, tenho 21 anos e sou natural de Minas Gerais. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na PucMG, atualmente atuo como estagiário em desenvolvimento web, onde eu pratico e aprendo constantemente.
 
 <p align="left">
     <!-- <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
@@ -19,6 +19,13 @@ Me chamo Andr Marques, tenho 20 anos e sou natural de Minas Gerais. Atualmente e
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a>  -->
+    <a href="https://www.linkedin.com/in/andry-marques">
+      <img 
+        alt="LinkedIn" 
+        title="LinkedIn"
+        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      />
+    </a>
     <a href="https://github.com/AndryMarques?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -71,22 +78,30 @@ Me chamo Andr Marques, tenho 20 anos e sou natural de Minas Gerais. Atualmente e
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-<img 
+<img
+    align="left" 
+    alt="Csharp"
+    title="Csharp" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+/>
+<!-- <img 
     align="left" 
     alt="SASS" 
     title="SASS"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
+/> -->
+<!-- <img 
     align="left" 
     alt="JQuery" 
     title="JQuery"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
+/> -->
 <img 
     align="left" 
     alt="Git" 
@@ -126,3 +141,6 @@ Me chamo Andr Marques, tenho 20 anos e sou natural de Minas Gerais. Atualmente e
   />
 
 </p>
+
+
+##
