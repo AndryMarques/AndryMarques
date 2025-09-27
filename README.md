@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Fala meu fi, bão?👋</h1>
+<h1 align="center">Fala meu fi, bão?👋</h1>
 
 ###
 
@@ -49,4 +49,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
 
-### -->
+### 
