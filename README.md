@@ -124,7 +124,7 @@ Me chamo Andry Marques, tenho 21 anos e sou natural de Minas Gerais. Atualmente 
 
 ### 📊 Estatísticas
 
-<p>
+<!-- <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -138,7 +138,7 @@ Me chamo Andry Marques, tenho 21 anos e sou natural de Minas Gerais. Atualmente 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndryMarques&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</p>
+</p> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndryMarques/AndryMarques/output/pacman-contribution-graph-dark.svg">
